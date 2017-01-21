@@ -1,0 +1,41 @@
+header{
+  background-color: #3e3ad7;
+  padding: 10px;
+}
+
+header h1 {
+  color: silver;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px
+}
+
+header nav ul{
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+header nav li {
+  display: inline;
+  font-family:  silver, 'Oswald', sans-serif;
+  font-size: 20px;
+  margin: 5px;
+}
+
+header nav li a{
+  color: silver;
+}
+
+header nav li a:hover{
+  background-color: #534fdc;
+  border-radius: 5px;
+  color: silver;
+  text-decoration: none;
+}
+
+section p {
+  border-radius: 25px;
+  font-family:  silver, 'Oswald', sans-serif;
+  margin-top: 20px;
+  text-align: center;
+}
