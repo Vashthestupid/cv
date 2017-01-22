@@ -23,7 +23,7 @@ header nav li {
   display: inline;
   font-family:  silver, 'Oswald', sans-serif;
   font-size: 20px;
-  margin: 10px;
+  margin: 5px;
 }
 
 header nav li a{
@@ -35,4 +35,10 @@ header nav li a:hover{
   border-radius: 5px;
   color: silver;
   text-decoration: none;
+}
+@media screen and (min-width: 320px) and (max-width: 1280){
+  .block {
+    display: block;
+    clear: both;
+  }
 }

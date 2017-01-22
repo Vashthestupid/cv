@@ -39,3 +39,36 @@ section p {
   margin-top: 20px;
   text-align: center;
 }
+
+footer img{
+  bottom: 0px;
+  height: 90px;
+  position: absolute;
+  text-align:center;
+}
+
+footer #linkedin{
+  margin-left: 300px;
+}
+
+footer #facebook{
+  margin-left: 600px;
+}
+
+footer #github{
+  margin-left: 900px;
+}
+
+footer #github{
+  bottom: 0px;
+  height: 90px;
+  position: absolute;
+  text-align:center;
+}
+
+@media screen and (min-width: 320px) and (max-width: 1280){
+  .block {
+    display: block;
+    clear: both;
+  }
+}
