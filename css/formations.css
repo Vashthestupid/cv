@@ -1,9 +1,5 @@
-body{
-  background-image: url(../images/web.jpg);
-}
-
 header{
-  background-color: #c82216;
+  background-color: #d0645f;
   padding: 10px;
 }
 
@@ -23,7 +19,7 @@ header nav li {
   display: inline;
   font-family:  silver, 'Oswald', sans-serif;
   font-size: 20px;
-  margin: 10px;
+  margin: 5px;
 }
 
 header nav li a{
@@ -31,7 +27,7 @@ header nav li a{
 }
 
 header nav li a:hover{
-  background-color: #d95540;
+  background-color: #3c9824;
   border-radius: 5px;
   color: silver;
   text-decoration: none;
