@@ -32,3 +32,28 @@ header nav li a:hover{
   color: silver;
   text-decoration: none;
 }
+
+section {
+  margin-left: 75px;
+  margin-top: 40px;
+}
+
+ section div{
+  background-color: #ec550a;
+  border-radius: 70px;
+}
+
+section label{
+  color: silver;
+  font-family:  silver, 'Oswald', sans-serif;
+  font-size: 13px;
+  padding: 20px;
+  text-align: center;
+  width: 125%;
+}
+
+section img{
+  margin-left: 150px;
+  height: 75px;
+  box-shadow:  5px 5px 5px black;
+}
